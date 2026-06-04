@@ -5,3 +5,5 @@ http-final/
 http-final.zip
 Packages/
 data/
+server/
+package-lock.json
