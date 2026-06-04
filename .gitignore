@@ -1,8 +1,7 @@
-# Dependencies
 node_modules
-
-# Environment variables
 .env
-
-# Prisma generated client
 prisma/generated/
+http-final/
+http-final.zip
+Packages/
+data/
